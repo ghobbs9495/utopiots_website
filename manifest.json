@@ -1,0 +1,10 @@
+{
+  "build/main.css": "http://localhost:8080/build/main.css",
+  "build/main.js": "http://localhost:8080/build/main.js",
+  "build/images/logo.png": "http://localhost:8080/build/images/logo.png",
+  "build/images/fav.png": "http://localhost:8080/build/images/fav.png",
+  "build/images/preview.png": "http://localhost:8080/build/images/preview.png",
+  "build/images/utopiots name.png": "http://localhost:8080/build/images/utopiots name.png",
+  "build/images/utopiots name copy.png": "http://localhost:8080/build/images/utopiots name copy.png",
+  "build/images/utopiots name 2 copy.png": "http://localhost:8080/build/images/utopiots name 2 copy.png"
+}
